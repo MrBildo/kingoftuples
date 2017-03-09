@@ -1,0 +1,50 @@
+﻿{
+	"companyName": "Widgets n Things",
+	"departments": [
+		{
+			"name": "HR",
+			"employees": [
+				{
+					"name": "John Doe",
+					"title": "Manager",
+					"level": 7
+				},
+				{
+					"name": "Jane Doe",
+					"title": "Director",
+					"level": 10
+				}
+			]
+		},
+		{
+			"name": "IT",
+			"employees": [
+				{
+					"name": "Fred Fuchs",
+					"title": "Director",
+					"level": 10
+				},
+				{
+					"name": "Non Binary",
+					"title": "Senior IT Tech",
+					"level": 5
+				},
+				{
+					"name": "Johnny Quest",
+					"title": "Junior IT Tech",
+					"level": 3
+				}
+			]
+		},
+		{
+			"name": "Legal",
+			"employees": [
+				{
+					"name": "Sue Meeh",
+					"title": "Director",
+					"level": 10
+				}
+			]
+		}
+	]
+}
